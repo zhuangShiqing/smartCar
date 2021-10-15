@@ -1,9 +1,2 @@
-#
+###
 Intelligent vehicle is a comprehensive system integrating environmental perception, planning and decision-making, multi-level assisted driving and other functions. It uses computers, modern sensing, information fusion, communication, artificial intelligence and automatic control technologies. It is a typical high-tech Technology complex. The current research on intelligent vehicles is mainly devoted to improving the safety and comfort of vehicles, and providing excellent human-vehicle interactive interfaces. In recent years, intelligent vehicles have become a research hotspot in the field of vehicle engineering in the world and a new driving force for the growth of the automotive industry. Many developed countries have incorporated them into their respective intelligent transportation systems.
-A smart car is a highly computerized car with pervasive computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced smart car demonstration platform with a transparent windshield display and various motion sensors. The driver can manipulate various applications suitable for cars in augmented reality. Similar to smart phones, drivers can customize their smart cars according to their needs and needs by downloading apps suitable for cars for free.
-Figure 1. External and internal views of the Smart Car demo platform.
-Figure 2. The system architecture of the smart car demonstration platform.
-Figure 3. Smart Car configuration.
-Figure 4. Layout combination of transparent windshield display
-Figure 5. Manipulating the visibility recovery application in a smart car. Upper part: driving under poor visibility conditions; middle part: turning on the visibility recovery application; lower part: driving the driver's vision after turning on the application.
-Figure 6. The driver executes the night contrast enhancement application, where the driver's field of view is increased. The upper and lower parts represent the driver's field of vision before and after using the app.
