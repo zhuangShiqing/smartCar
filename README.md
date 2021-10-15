@@ -1,33 +1,9 @@
-# smartCar
-The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
-
-
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
-
-Figure 1. Exterior and interior views of the Smart Car demonstration platform.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
-
-Figure 2. System architecture of the Smart Car demonstration platform.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
-
-Figure 3. The Smart Car’s configuration.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
-
-Figure 4. Layout combination of the transparent windshield display
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
-
-Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
-driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
-lower portion: driver’s vision field has been improved after turning on the application.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
-
-Figure 6. Driver performing the nighttime contrast enhancement application where the
-driver’svision field is increased. Upper and lower portions represent the driver’s vision field
-before and after using the application.
-
+#
+Intelligent vehicle is a comprehensive system integrating environmental perception, planning and decision-making, multi-level assisted driving and other functions. It uses computers, modern sensing, information fusion, communication, artificial intelligence and automatic control technologies. It is a typical high-tech Technology complex. The current research on intelligent vehicles is mainly devoted to improving the safety and comfort of vehicles, and providing excellent human-vehicle interactive interfaces. In recent years, intelligent vehicles have become a research hotspot in the field of vehicle engineering in the world and a new driving force for the growth of the automotive industry. Many developed countries have incorporated them into their respective intelligent transportation systems.
+A smart car is a highly computerized car with pervasive computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced smart car demonstration platform with a transparent windshield display and various motion sensors. The driver can manipulate various applications suitable for cars in augmented reality. Similar to smart phones, drivers can customize their smart cars according to their needs and needs by downloading apps suitable for cars for free.
+Figure 1. External and internal views of the Smart Car demo platform.
+Figure 2. The system architecture of the smart car demonstration platform.
+Figure 3. Smart Car configuration.
+Figure 4. Layout combination of transparent windshield display
+Figure 5. Manipulating the visibility recovery application in a smart car. Upper part: driving under poor visibility conditions; middle part: turning on the visibility recovery application; lower part: driving the driver's vision after turning on the application.
+Figure 6. The driver executes the night contrast enhancement application, where the driver's field of view is increased. The upper and lower parts represent the driver's field of vision before and after using the app.
